@@ -1,7 +1,7 @@
 #9.5.1 - Set up DB & Flask
 import datetime as dt
-# import numpy as np
-# import pandas as pd
+import numpy as np
+import pandas as pd
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
@@ -24,11 +24,9 @@ Station = Base.classes.station
 #create a session link
 session = Session(engine)
 
+app = Flask(__name__)
 
 ######Set up flask
-
-import app
-
 print("example __name__ = %s", __name__)
 
 if __name__ == "__main__":
@@ -41,7 +39,7 @@ else:
 def welcome():
     return(
     '''
-    Welcome to the Climate Analysis API!
+    Welcome to the Climate Analysis API!<br>
     Available Routes:
     /api/v1.0/precipitation
     /api/v1.0/stations
