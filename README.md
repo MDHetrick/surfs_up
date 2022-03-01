@@ -35,6 +35,7 @@ Next, queries were done to obtain the temperature statistics for each month and 
 ![Image](https://github.com/MDHetrick/surfs_up/blob/main/Resources/Monthly_temp_graph.png)
 
 Finally, descriptive statistics were obtained for temperature mean, min, and max
+
 ![Image](https://github.com/MDHetrick/surfs_up/blob/main/Resources/Summary_stats_temp.png)
 
 **Results - Additional Queries:**
