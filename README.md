@@ -34,7 +34,7 @@ Next, queries were done to obtain the temperature statistics for each month and 
 
 ![Image](https://github.com/MDHetrick/surfs_up/blob/main/Resources/Monthly_temp_graph.png)
 
-Finally, descriptive statistics were obtained for temperature mean, min, and max
+Finally, descriptive statistics were obtained for temperature mean, min, and max for each month.
 
 ![Image](https://github.com/MDHetrick/surfs_up/blob/main/Resources/Summary_stats_temp.png)
 
@@ -46,6 +46,7 @@ Finally, descriptive statistics were obtained for temperature mean, min, and max
 - The monthly minimum temperatures range from 53.00 to 65.00 
 - The monthly maximum temperatures range from 81.00 to 87.00 
 - There is the greatest variability in the minimum temperature with a standard deviation of 4.43
+- 
 ### Summary
 While there is some variability in temperatures from month to month, the max temp for each month is above 80 degrees, and the mean temp for each month is almost 70 degrees. While the temperature minimums vary the most by month, they still remain quite moderate. The max precipitation for June and December is large, but the mean and 75th percentile are less than 0.35 for both months, suggesting that there may be a couple days each month with significant precipitation, but the remainder of the days are potentially drier. 
 
