@@ -28,13 +28,24 @@ A query was done to obtain the overall temperature statistics
 
 ![Image](https://github.com/MDHetrick/surfs_up/blob/main/Resources/Temp_stats.png)
 
-Finally, queries were done to obtain the temperature statistics for each month and results were graphed.
+Next, queries were done to obtain the temperature statistics for each month and results were graphed.
 
 ![Image](https://github.com/MDHetrick/surfs_up/blob/main/Resources/Monthly_temp_stats.png)
 
 ![Image](https://github.com/MDHetrick/surfs_up/blob/main/Resources/Monthly_temp_graph.png)
+
+Finally, descriptive statistics were obtained for temperature mean, min, and max
+
+**Results - Additional Queries:**
+- The max precipitation was 4.43 for June and 6.42 for December
+- The mean precipitation was 0.23 for June and 0.34 for December
+- The 75%th percentile for precipitation was 0.24 for June and 0.33 for December
+- The monthly mean temperatures throughout the year range from 68.73 to 76.41
+- The monthly minimum temperatures range from 59.33 to 65.00 
+- The monthly maximum temperatures range from 81.00 to 87.00 
+- There is the greatest variability in the minimum temperature with a standard deviation of 4.54
 ### Summary
-*Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.*
+While there is some variability in temperatures from month to month, the max temp for each month is above 80 degrees, and the mean temp for each month is almost 70 degrees. While the temperature minimums vary the most by month, they still remain quite moderate. The max precipitation for June and December is large, but the mean and 75th percentile are less than 0.35 for both months, suggesting that there may be a couple days each month with significant precipitation, but the remainder of the days are potentially drier. 
 
 
-*There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.*
+In relation to the business venture, the 
