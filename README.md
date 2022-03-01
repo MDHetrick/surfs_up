@@ -47,5 +47,6 @@ Finally, descriptive statistics were obtained for temperature mean, min, and max
 ### Summary
 While there is some variability in temperatures from month to month, the max temp for each month is above 80 degrees, and the mean temp for each month is almost 70 degrees. While the temperature minimums vary the most by month, they still remain quite moderate. The max precipitation for June and December is large, but the mean and 75th percentile are less than 0.35 for both months, suggesting that there may be a couple days each month with significant precipitation, but the remainder of the days are potentially drier. 
 
+Based on this analysis and the assumption that moderate weather is desirable, the weather in O'ahu should be conducive to sustaining a surf and ice cream shop all year.
 
-In relation to the business venture, the 
+ 
